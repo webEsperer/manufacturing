@@ -1,5 +1,5 @@
 function App() {
-  return <div></div>;
+  return <div>React Container</div>;
 }
 
 export default App;
