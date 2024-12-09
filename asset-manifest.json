@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/manufacturing/static/js/main.a48c36ab.js",
-    "index.html": "/manufacturing/index.html",
-    "main.a48c36ab.js.map": "/manufacturing/static/js/main.a48c36ab.js.map"
+    "main.js": "./static/js/main.a48c36ab.js",
+    "index.html": "./index.html",
+    "main.a48c36ab.js.map": "./static/js/main.a48c36ab.js.map"
   },
   "entrypoints": [
     "static/js/main.a48c36ab.js"
