@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/manufacturing/static/js/main.896c1854.js",
+    "main.js": "/manufacturing/static/js/main.a48c36ab.js",
     "index.html": "/manufacturing/index.html",
-    "main.896c1854.js.map": "/manufacturing/static/js/main.896c1854.js.map"
+    "main.a48c36ab.js.map": "/manufacturing/static/js/main.a48c36ab.js.map"
   },
   "entrypoints": [
-    "static/js/main.896c1854.js"
+    "static/js/main.a48c36ab.js"
   ]
 }
